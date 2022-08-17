@@ -1,15 +1,5 @@
 # Web-Development-Projects
 
-### ARKA - Club Website
-
-This website is a shorthand tool for the students to access all the details and updates of the clubs.Details of the latest articles on Astronomy related topics can be viewed. Events details & Club members details can also be viewed. Super admin can post new articles and can add new members.
-
-![Microsoft Game DVR - Arka - Google Chrome - VLC media player 26-07-2021 00_45_27](https://user-images.githubusercontent.com/54680696/126914197-7130cfdd-0b1e-4237-89c9-47d7bf7532e7.png)
-
-[GitHub Link of project](https://github.com/amanagrawal5510/Arka_Website)
-
-***
-
 ### Dellmax Site 
 
 Developed a front end for any start up using CSS, HTML, BOOTSTRAP.
